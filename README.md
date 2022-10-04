@@ -1,2 +1,2 @@
 # AutobusCardGame
-## Desktop application to play Card game "Autobus" with Computer
+Desktop application to play Card game "Autobus" with Computer
